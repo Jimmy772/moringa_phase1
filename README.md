@@ -5,7 +5,7 @@
 ### Problem 
 - Okay, so Microsoft sees other big companies making cool video content and wants to join in. They're starting their own movie studio, but they're clueless about making movies. That's where I come in. I have to find out which types of films are doing well at the box office and translate that into actionable insights for the head of Microsoft's studio. This will help them decide what kind of films to create.
 ### Data Understanding 
-- The data I have available to me come from a variety of movie databases.
+- The data I have available to me come from a variety of movie databases, most of it is from TMDb.
 - The data represents various movie attributes. Key among them being revenue generated, popularity and ratings which will serve as our success metrics in this analysis.
 #### Questions to consider
 - Does expensive mean successfull?
