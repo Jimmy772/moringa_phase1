@@ -32,4 +32,4 @@ The following are the key takeaways from this analysis:
 5. Collaborate with Established Studios: The analysis suggests that studio success in terms of revenue and profit is influenced by budget. Microsoft's movie studio can consider collaborating with established production studios that have a track record of success in the film industry. This collaboration can provide valuable expertise, resources, and distribution channels to enhance the chances of success for Microsoft's films.
 6. Continuous Monitoring of Industry Trends: The film industry is constantly evolving, and trends can shift quickly. It is recommended for Microsoft to stay updated on market trends, emerging genres, and audience preferences through regular market research and monitoring of industry reports. This will enable them to adapt their film production strategy accordingly and stay competitive in the market.
 ### For More Information
-See the full analysis in the [Jupyter Notebook](index.ipynb)
+See the full analysis in the [Jupyter Notebook](index.ipynb) or review this [presentation](https://docs.google.com/presentation/d/1Zguli9ZEvjR7I31hqRCSajIIRdMN6bej-a-M1fgyATE/edit?usp=sharing)
