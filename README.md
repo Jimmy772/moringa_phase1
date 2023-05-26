@@ -15,11 +15,11 @@
 This project uses correlation coefficients as well as visualizations to answer the questions above.
 ### Results
 - Budget and rating have a low positive linear relationship. Therfore it seems that more expensive films don't always result in a good reception by the audience. It should be noted that majority of the highest rated films have a high budget.
-![budget_vs_rating](images/budget%20vs.%20rating.png)
+![budget_vs_rating](images/budget%20vs.%20rating.png,50%)
 - Budget and profit have moderate positive linear relationship. It seems that more expesive films make more profit but doesn't mean that expensive films are more profitable.
-![budget_vs_profit](images/budget%20vs.%20profit.png)
+![budget_vs_profit](images/budget%20vs.%20profit.png,50%)
 - This trend of spend more make more extends to genre and studio.
-![profit_by_genre](images/profit%20by%20genre.png)
+![profit_by_genre](images/profit%20by%20genre.png,50%)
 ### Conclusions
 The following are the key takeaways from this analysis:
 1. Diversify Film Budgets: While budget does have some impact on a film's success, it is not a guarantee of high ratings or profitability. It is recommended to diversify the film budgets and not solely rely on expensive productions. Microsoft should consider a mix of high-budget and moderate-budget films based on the genre, target audience, and expected reception.
